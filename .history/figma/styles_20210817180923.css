@@ -2,9 +2,6 @@ body {
  background-color: #e4d7e7;
 
 }
-main {
-  width: 100%;
-}
 
 h1 {
   font-size: 24px;
@@ -14,9 +11,8 @@ nav a {
 }
 
 .items {
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
-  
 }
 
 img {
