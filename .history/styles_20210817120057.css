@@ -1,0 +1,41 @@
+body{
+  width: 100%;
+}
+main{
+  background-color: #e4d7e7;
+}
+
+
+h1 {
+  font-size: 62px;
+  font-family: 'Teko', sans-serif;
+  color: #a16994;
+  margin-bottom: 80px;
+  
+}
+h2{
+
+  font-size: 24px;
+  color: bisque;
+}
+
+p {
+  font-size: 8px;
+  color: #a16994;
+}
+.cardflex {
+  width: 100%;
+  display: block;
+  display: flex;
+}
+.card-items {
+  width: 30%;
+  padd
+}
+
+img {
+  width: 80%;
+}  
+
+
+

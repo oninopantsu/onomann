@@ -1,0 +1,22 @@
+body {
+  width: 100%;
+ background-color: #e4d7e7;
+;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.items {
+  width: 80%;
+  margin: 0 auto;
+}
+
+img {
+  width: 240px;
+}
+
+p {
+  font-size: 12px;
+}
